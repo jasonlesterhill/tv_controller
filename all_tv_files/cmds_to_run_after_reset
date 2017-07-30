@@ -1,0 +1,3 @@
+sudo chmod a+rw /dev/i2c-1 
+sudo chmod 777 /dev/mem /dev/i2c-1
+
